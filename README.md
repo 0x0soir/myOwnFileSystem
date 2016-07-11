@@ -10,4 +10,5 @@ As root:
 - mkdir dir
 - touch file
 - echo x (int) > file
+- echo y (string) > file
 - cat file
